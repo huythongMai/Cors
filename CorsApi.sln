@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsApi", "CorsApi\CorsApi.csproj", "{63446214-2716-4ACD-B32D-36CA4AC22690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsMvc", "CorsMvc\CorsMvc.csproj", "{B6419B4E-25C9-4BF1-A4F2-19131382E972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63446214-2716-4ACD-B32D-36CA4AC22690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63446214-2716-4ACD-B32D-36CA4AC22690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63446214-2716-4ACD-B32D-36CA4AC22690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63446214-2716-4ACD-B32D-36CA4AC22690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6419B4E-25C9-4BF1-A4F2-19131382E972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6419B4E-25C9-4BF1-A4F2-19131382E972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6419B4E-25C9-4BF1-A4F2-19131382E972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6419B4E-25C9-4BF1-A4F2-19131382E972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F058A7-7E38-4941-AE3A-F22D2A84D871}
+	EndGlobalSection
+EndGlobal
